@@ -49,6 +49,6 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a> 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moddynow69&show_icons=true&locale=en&layout=strech" alt="moddynow69" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moddynow69&show_icons=true&locale=en&layout=compact" alt="moddynow69" /></p>
 
 <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=moddynow69&theme=dark alt="moddynow69" /></p>
