@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **NodeJS and React Native**
 
-- 👨‍💻 All of my projects are available at [https://moddynow69.github.io/Portfolio/](https://moddynow69.github.io/Portfolio/)
+- 💻👨‍💻I'm Currently working as Intern for **SURAKSHA ONE**
+
+- 👨‍💻 My Portfolio [https://moddynow69.github.io/Portfolio/](https://moddynow69.github.io/Portfolio/)
 
 - 📫 How to reach me **tusharkaler450@gmail.com**
 
