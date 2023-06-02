@@ -44,7 +44,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> 
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://en.wikipedia.org/wiki/File:React-icon.svg" alt="reactnative" width="80" height="80"/> </a>
+<img src="[https://en.wikipedia.org/wiki/File:React-icon.svg](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)" alt="reactnative" width="80" height="80"/> </a>
   <h3 align="center">Tools:</h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> </a> 
