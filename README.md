@@ -51,4 +51,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moddynow69&layout=pie" alt="moddynow69" /></p>
 
-<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=moddynow69&theme=dark alt="moddynow69" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=moddynow69&theme=highcontrast alt="moddynow69" /></p>
