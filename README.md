@@ -39,7 +39,7 @@
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/></a>  
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="express" width="80" height="80"/> </a> 
+<img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="express" height="80"/> </a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
