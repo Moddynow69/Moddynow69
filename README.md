@@ -19,7 +19,7 @@
 <a href="https://instagram.com/tushar._.2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar._.2908" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tushar2908" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tushar2908" height="30" width="40" /></a>
 </p>
-
+<div align="center">
 <h3 align="left">Languages:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -48,6 +48,7 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a> 
+ </div>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moddynow69&layout=pie" alt="moddynow69" /></p>
 
