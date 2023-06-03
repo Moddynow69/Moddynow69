@@ -48,6 +48,6 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a> 
- </div>
-  <h3>Stats:</h3>
+ <h3>Stats:</h3>
 <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=moddynow69&theme=highcontrast alt="moddynow69" /></p>
+ </div>
