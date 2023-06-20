@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tushar</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=550&lines=>Hi+👋,+I'm+Tushar;" alt="Typing SVG" /></a>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Tushar;" alt="Typing SVG" /></a>
+</h1>
 <h3 align="center">A passionate Computer Science Student from NITKKR</h3>
 
 - 🔭 I’m currently working on **BOOKSHUK**
