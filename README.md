@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A passionate Computer Science Student from NITKKR</h3>
 
-- 🔭 I’m currently working on **BOOKSHUK**
+- 🔭 I’m currently working on **GPTify**
 
 - 🌱 I’m currently learning **NodeJS and React Native**
 
