@@ -48,7 +48,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo.png" alt="nodejs" width="full" height="80"/> </a> 
+<img src="https://files.raycast.com/sjxs3pxsc6k63ju0fzv8l3cu4v90" alt="nodejs" width="full" height="80"/> </a> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nodejs" width="80" height="80"/> </a> 
 <h3>Tools:</h3>
