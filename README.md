@@ -33,6 +33,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> 
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="javascript" width="80" height="80"/> </a>
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="c" width="80" height="80"/> </a> 
+ <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="c" width="80" height="80"/> </a> 
  <br>
  <h3>Devlopment:</h3>
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
