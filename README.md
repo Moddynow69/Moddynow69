@@ -53,6 +53,8 @@
 <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js" width="80" height="80"/> </a> 
  <a href="https://vitejs.dev/guide" target="_blank" rel="noreferrer"> 
 <img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="Vite" width="80" height="80"/> </a> 
+ <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+<img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="Vite" width="80" height="80"/> </a>
 <h3>Tools:</h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> </a> 
