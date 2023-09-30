@@ -47,6 +47,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> 
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo.png" alt="nodejs" width="full" height="80"/> </a> 
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nodejs" width="80" height="80"/> </a> 
 <h3>Tools:</h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> </a> 
