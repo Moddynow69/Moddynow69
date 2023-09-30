@@ -47,12 +47,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://files.raycast.com/sjxs3pxsc6k63ju0fzv8l3cu4v90" alt="nodejs" width="full" height="80"/> </a> 
  <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer"> 
-<img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nodejs" width="80" height="80"/> </a> 
+<img src="https://files.raycast.com/sjxs3pxsc6k63ju0fzv8l3cu4v90" alt="TailWindCSS" width="full" height="80"/> </a> 
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js" width="80" height="80"/> </a> 
  <a href="https://vitejs.dev/guide" target="_blank" rel="noreferrer"> 
-<img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="nodejs" width="80" height="80"/> </a> 
+<img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="Vite" width="80" height="80"/> </a> 
 <h3>Tools:</h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> </a> 
