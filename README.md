@@ -5,15 +5,11 @@
 
 - 🔭 I’m currently working on **ScholarLink**
 
-- 🌱 I’m currently learning **NodeJS and React Native**
-
-- 💻👨‍💻I'm Currently working as Intern for **SURAKSHA ONE**
+- 🌱 I’m currently learning **Nest.JS and PostgreSQL**
 
 - 👨‍💻 My Portfolio [https://moddynow69.github.io/Portfolio/](https://moddynow69.github.io/Portfolio/)
 
 - 📫 How to reach me **tusharkaler450@gmail.com**
-
-- ⚡ Fun fact **I'm a creative thinker**
 
 <div align="center">
 
