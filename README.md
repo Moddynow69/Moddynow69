@@ -61,7 +61,5 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a> 
  <h3>Stats:</h3>
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=moddynow69&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D alt="moddynow69" /></p>
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moddynow69&layout=compact&theme=dark alt="moddynow69" /></p>
-
+<p align="center"><img align="center" src="https://streak-stats.demolab.com?user=moddynow69&theme=dark alt="moddynow69" /></p
  </div>
