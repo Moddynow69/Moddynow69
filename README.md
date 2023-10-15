@@ -61,10 +61,10 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> </a> 
  <h3>Stats:</h3>
-<p align="center">
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moddynow69&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moddynow69&layout=compact&theme=dark)
-</p>
  </div>
+---
+### :fire: My Stats :
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moddynow69&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moddynow69&layout=compact&theme=dark)
 
  
