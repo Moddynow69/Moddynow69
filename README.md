@@ -25,10 +25,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> 
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="javascript" width="80" height="80"/> </a>
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="c" width="80" height="80"/> </a> 
  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
@@ -39,6 +35,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> 
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="javascript" width="80" height="80"/> </a>
+  <br>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/></a>  
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
@@ -47,12 +48,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a> 
- <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer"> 
-<img src="https://files.raycast.com/sjxs3pxsc6k63ju0fzv8l3cu4v90" alt="TailWindCSS" width="full" height="80"/> </a> 
+  <br>
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
 <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js" width="80" height="80"/> </a> 
  <a href="https://vitejs.dev/guide" target="_blank" rel="noreferrer"> 
 <img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="Vite" width="80" height="80"/> </a> 
+ <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer">  
+<img src="https://files.raycast.com/sjxs3pxsc6k63ju0fzv8l3cu4v90" alt="TailWindCSS" width="full" height="80"/> </a> 
  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
 <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="Vite" width="80" height="80"/> </a>
 <h3>Tools:</h3>
