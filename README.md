@@ -38,7 +38,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> 
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="javascript" width="80" height="80"/> </a>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="80" height="80"/> </a>
   <br>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/></a>  
