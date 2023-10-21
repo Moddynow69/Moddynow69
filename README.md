@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nest.JS and PostgreSQL**
 
-- 👨‍💻 My Portfolio [Launch NOW!!!!!](https://moddynow69.github.io/Portfolio/)
+- 👨‍💻 My Portfolio <a href="https://moddynow69.github.io/Portfolio/" target="blank">Launch NOW!!!!!</a>
 
 - 📫 How to reach me **tusharkaler450@gmail.com**
 
