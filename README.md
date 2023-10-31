@@ -2,7 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Tushar;" alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">Sometimes i code , Mostly i center the div</h3>
-![images](https://github.com/Moddynow69/Moddynow69/assets/113186420/bc1cb8d1-353c-4252-91cb-4bb22749416d)
 
 - 🔭 I’m currently working on **ScholarLink**
 
