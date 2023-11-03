@@ -3,13 +3,15 @@
 </h1>
 <h3 align="center">Sometimes i code , Mostly i center the div!!!</h3>
 
-- 🔭 I’m currently working on **ScholarLink**
+<div align="center">
+ 
+![1_2X4kX8wkfbtBFu9Zack_IA](https://github.com/Moddynow69/Moddynow69/assets/113186420/d39e95de-23e8-4d24-a9b7-950a6cff657c)
 
-- 🌱 I’m currently learning **Nest.JS and PostgreSQL**
+</div>
 
-- 👨‍💻 My Portfolio <a href="https://moddynow69.github.io/Portfolio/" target="_blank">Launch NOW!!!!!</a>
+- <a href="https://moddynow69.github.io/Portfolio/" target="_blank"> 👨‍💻 My Portfolio!!!!!</a>
 
-- 📫 How to reach me **tusharkaler450@gmail.com**
+- 📫 **tusharkaler450@gmail.com**
 
 <div align="center">
 
